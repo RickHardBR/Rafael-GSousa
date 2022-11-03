@@ -7,18 +7,35 @@
 
 
 
-<h3> Learning <h3>
+<h3> Languages (Learning) <h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img align="center" alt="Python3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+<img align="center" alt="Java" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+<img align="center" alt="HTML5" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+  
+<h3> IDEs </h3>
+  
+<a title="JetBrains, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Icon.svg"><img width="40" alt="IntelliJ IDEA Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"></a>
+<a title="JetBrains, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:PyCharm_Icon.svg"><img width="40" alt="PyCharm Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"></a>
+<a title="Eclipse Foundation, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Eclipse-Luna-Logo.svg"><img width="100" alt="Eclipse-Luna-Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/256px-Eclipse-Luna-Logo.svg.png"></a>
+  
+<h3> SO </h3>
 
+<a title="Original work: Microsoft
+File:Windows 8 logo and wordmark.svg: Multiple editors; see image description page
+This work: Fry1989, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Windows_logo_-_2012.svg"><img width="40" alt="Windows logo - 2012" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/64px-Windows_logo_-_2012.svg.png"></a>
+<a title="lewing@isc.tamu.edu Larry Ewing and The GIMP (Attribution or GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;), via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:NewTux.svg"><img width="40" alt="NewTux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/256px-NewTux.svg.png"></a>
+ 
 <h3 > Contacts </h3>
 
-<a href="https://www.linkedin.com/in/rafael-galdino-7a4b0180/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a> <a href="https://github.com/Rafael-GSousa" target="_blank"> ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) </a> <a href="mailto:rafael.gsousa@outlook.com" target="_blank"> ![Outlook](https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&logo=outlook&logoColor=white) </a> 
+<a href="https://www.linkedin.com/in/rafael-galdino-7a4b0180/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+<a href="https://github.com/Rafael-GSousa" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"> </a> 
+<a href="mailto:rafael.gsousa@outlook.com"> <img src="https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&logo=outlook&logoColor=white"> </a> 
+<a href = "mailto:rafaelgaldino.sousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/raphael_galdino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   
 <h3> Visitors </h3>
   
