@@ -7,7 +7,7 @@
 
 
 
-<h3> Languages (Learning) <h3>
+<h3> Learning <h3>
 
 <img align="center" alt="Python3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
 <img align="center" alt="Java" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
@@ -21,6 +21,7 @@
 <a title="JetBrains, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Icon.svg"><img width="40" alt="IntelliJ IDEA Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"></a>
 <a title="JetBrains, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:PyCharm_Icon.svg"><img width="40" alt="PyCharm Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"></a>
 <a title="Eclipse Foundation, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Eclipse-Luna-Logo.svg"><img width="100" alt="Eclipse-Luna-Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/256px-Eclipse-Luna-Logo.svg.png"></a>
+<a title="Microsoft, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.png"><img width="40" alt="Visual Studio Code 1.35 icon" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png"></a>
   
 <h3> SO </h3>
 
