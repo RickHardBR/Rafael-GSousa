@@ -2,7 +2,7 @@
 <section align="center">
   <h1> Welcome to my GitHub </h1>
   
-<img height="70%" width="70%" src="https://github-readme-stats.vercel.app/api?username=-gsousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="70%" width="70%" src="https://github-readme-stats.vercel.app/api?username=rafael-gsousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="70%" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-gsousa&layout=compact&langs_count=7&theme=dracula"/>
 
 
