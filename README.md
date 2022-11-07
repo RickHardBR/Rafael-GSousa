@@ -2,8 +2,8 @@
 <section align="center">
   <h1> Welcome to my GitHub </h1>
   
-<img height="70%" width="80%" src="https://github-readme-stats.vercel.app/api?username=rafael-gsousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="70%" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-gsousa&layout=compact&langs_count=7&theme=dracula"/>
+<img height="70%" width="70%" src="https://github-readme-stats.vercel.app/api?username=-gsousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="70%" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-gsousa&layout=compact&langs_count=7&theme=dracula"/>
 
 
 
@@ -38,13 +38,13 @@ This work: Fry1989, Public domain, via Wikimedia Commons" href="https://commons.
 <a href = "mailto:rafaelgaldino.sousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/raphael_galdino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   
-  <h3><i> Visitors </i></h3>
-  
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Rafael-GSousa/count.svg" /></p>
   
 
 ![snake gif](https://github.com/Rafael-GSousa/Rafael-GSousa/blob/output/github-contribution-grid-snake.svg)
 
+  <h3><i> Visitors </i></h3>
+  
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Rafael-GSousa/count.svg" /></p>
 
 </section>
 
